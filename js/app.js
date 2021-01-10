@@ -1,14 +1,14 @@
 const container = document.querySelector(".container")
 const coffees = [
-  { name: "Perspiciatis", image: "images/coffee1.jpg" },
-  { name: "Voluptatem", image: "images/coffee2.jpg" },
-  { name: "Explicabo", image: "images/coffee3.jpg" },
-  { name: "Rchitecto", image: "images/coffee4.jpg" },
-  { name: " Beatae", image: "images/coffee5.jpg" },
-  { name: " Vitae", image: "images/coffee6.jpg" },
-  { name: "Inventore", image: "images/coffee7.jpg" },
-  { name: "Veritatis", image: "images/coffee8.jpg" },
-  { name: "Accusantium", image: "images/coffee9.jpg" },
+  { name: "Perspiciatis", image: "images/Arcade.jpg" },
+  { name: "Voluptatem", image: "images/Bag.jpg" },
+  { name: "Explicabo", image: "images/Ben.jpg" },
+  { name: "Rchitecto", image: "images/Cam.jpg" },
+  { name: " Beatae", image: "images/Dad.jpg" },
+  { name: " Vitae", image: "images/Icecream.jpg" },
+  { name: "Inventore", image: "images/Man.jpg" },
+  { name: "Veritatis", image: "images/Skip.jpg" },
+  { name: "Accusantium", image: "images/View.jpg" },
 ]
 
 const showCoffees = () => {
